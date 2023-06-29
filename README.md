@@ -1,5 +1,5 @@
 # Strukturno-Programiranje
-A repo for all my solved exercises for Structured Programming at Faculty of Computer Science and Engineering(FINKI)
+A repo for all my solved exercises for Structured Programming at Faculty of Computer Science and Engineering(FCSE)
 
 This repo contains 
 - Exercises (first and second midterms)
